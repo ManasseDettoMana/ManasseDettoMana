@@ -11,24 +11,22 @@ Contacts
 
 Languages / Tools:
 
-git
+git html css bootstrap javascript node vue sass php laravel mySql
 
-html
 
-css
 
-bootstrap
 
-javascript
 
-node
 
-vue
 
-sass
 
-php
 
-laravel
 
-mySql
+
+
+
+
+
+
+
+
