@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @ManasseDettoMana
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning Laravel
-- 📫 How to reach me: smarrazzomanasse@gmail.com
+Hi, I’m @ManasseDettoMana
+- 21 y.o.
+- I’m currently learning Laravel
 
 I am a simple guy with a simple dream, to become a developer.
+
+How to reach me: smarrazzomanasse@gmail.com
