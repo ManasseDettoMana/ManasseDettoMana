@@ -1,9 +1,8 @@
 ~~~~~~~~~~~~~~~~~~~~~~~
 Hi, I’m @ManasseDettoMana
 - 21 y.o.
-- I’m currently learning Laravel
+- I’m currently learning Java
 
-I am a simple guy with a simple dream, to become a developer.
 ~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~~~~~~~~~~~~~~~~
 Contacts
@@ -14,7 +13,7 @@ Contacts
 
 Languages / Tools:
 
-git html css bootstrap javascript node vue sass php laravel mySql
+git html css bootstrap javascript node vue sass php laravel mySql // Java - Spring boot & Hibernate, MAVEN
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 
