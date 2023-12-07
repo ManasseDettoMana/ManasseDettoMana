@@ -1,6 +1,6 @@
 ~~~~~~~~~~~~~~~~~~~~~~~
 Hi, I’m @ManasseDettoMana
-- 21 y.o.
+- 23 y.o.
 - I’m currently learning Java
 
 ~~~~~~~~~~~~~~~~~~~~~~~
