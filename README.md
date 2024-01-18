@@ -1,7 +1,8 @@
 ~~~~~~~~~~~~~~~~~~~~~~~
 Hi, I’m @ManasseDettoMana
 - 23 y.o.
-- I’m currently learning Java
+- I’m currently learning Angular
+
 
 ~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~~~~~~~~~~~~~~~~
