@@ -1,7 +1,7 @@
 ~~~~~~~~~~~~~~~~~~~~~~~
-Hi, I’m @ManasseDettoMana
-- 23 y.o.
-- I’m currently learning Angular
+Hi, I’m Manasse
+- 24 y.o.
+- I’m currently learning Angular/Godot
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~
